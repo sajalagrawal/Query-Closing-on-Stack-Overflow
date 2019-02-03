@@ -1,0 +1,8 @@
+tag weight
+gunning fog index
+code/text ratio
+
+Principal component analysis
+
+
+NN
