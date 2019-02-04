@@ -6,3 +6,5 @@ Principal component analysis
 
 
 NN
+
+normalization in logistic regression
