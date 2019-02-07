@@ -1,4 +1,4 @@
-tag weight
+tag weight 
 gunning fog index
 code/text ratio
 features(count of answered questions etc) using web scraping
@@ -12,4 +12,3 @@ normalization in logistic regression
 k-fold CV
 Ridge/Lasso regularization
 Grid Search CV
-Elastic net regularization
