@@ -1,3 +1,7 @@
+dataframe shuffling 
+feature importance bar graph
+
+
 tag weight 
 gunning fog index
 code/text ratio
