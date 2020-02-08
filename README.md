@@ -1,5 +1,4 @@
 # Query-Closing-on-Stack-Overflow
-Developing classifiers to predict whether a user query will be closed or not.
 
 Stack Overflow (SO) is a website specifically designed to help the users get answers to the programming
 related questions posted by them. As the number of questions is increasing everyday, it is very important for the SO community to
