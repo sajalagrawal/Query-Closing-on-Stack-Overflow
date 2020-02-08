@@ -16,15 +16,15 @@ We used StackExchange Data Explorer to pull out closed questions with their user
 
 # Solution
 On the basis of analysis of the dataset, we have employed the following classification algorithms for predicting whether a question is likely to be closed or not-
-• Logistic Regression
-• Random Forest
-• Support Vector Machine
+* Logistic Regression
+* Random Forest
+* Support Vector Machine
 
 For the second classification task for predicting the reason for closure, we have employed the following classification models-
-• Logistic Regression
-• Random Forest
-• Support Vector Machine
-• AdaBoost
+* Logistic Regression
+* Random Forest
+* Support Vector Machine
+* AdaBoost
 
 # Results
 For the first classification task - SVM with RBF Kernel outperforms the rest with an accuracy and F1-score of 91.32% and 0.91 respectively.
